@@ -1,14 +1,14 @@
-# 🌱 RePlant
+## 🌱 RePlant
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/7432aae4-41d0-4560-b46e-59ea1d0adace" style="width:100%; max-width:1000px;" />
-  <h3><i>회복의 여정을 함께하는 동반자</i></h3>
+  <h4><i>회복의 여정을 함께하는 동반자</i></h3>
   <p><b>마약중독 회복을 위한 Apple Watch 연동 헬스케어 애플리케이션</b></p>
 </div>
 
 ---
 
-## 💫 소개
+### 💫 소개
 
 **RePlant**는 마약중독자의 회복 여정을 지원하는 혁신적인 헬스케어 애플리케이션입니다. 사용자가 건강한 습관을 형성하고 회복 과정을 추적할 수 있도록 설계되었으며, Apple Watch와의 완벽한 연동으로 실시간 모니터링 및 지원을 제공합니다.
 
@@ -31,9 +31,9 @@
 
 ---
 
-## 📱 주요 기능
+### 📱 주요 기능
 
-### ✅ 일일 미션 시스템
+#### ✅ 일일 미션 시스템
 <div>
   <ul>
     <li>개인화된 단계별 일일 회복 미션 제공</li>
@@ -44,7 +44,7 @@
 </div>
 <br clear="all" />
 
-### 📈 회복 트래킹
+#### 📈 회복 트래킹
 <div>
   <ul>
     <li>단계별 회복 과정 시각화</li>
@@ -55,7 +55,7 @@
 </div>
 <br clear="all" />
 
-### ⌚ Apple Watch 연동
+#### ⌚ Apple Watch 연동
 <div>
   <ul>
     <li>실시간 생체 지표 모니터링 (심박수, 활동량)</li>
@@ -66,7 +66,7 @@
 </div>
 <br clear="all" />
 
-### 👥 커뮤니티 & 상담 시스템
+#### 👥 커뮤니티 & 상담 시스템
 <div>
   <ul>
     <li>익명성이 보장된 안전한 소통 환경</li>
@@ -77,7 +77,7 @@
 </div>
 <br clear="all" />
 
-### 📝 회복 일지
+#### 📝 회복 일지
 <div>
   <ul>
     <li>감정 상태 및 트리거 요인 기록</li>
@@ -90,7 +90,7 @@
 
 ---
 
-## 🧩 기술 스택
+### 🧩 기술 스택
 
 <div align="center">
 
@@ -121,7 +121,7 @@
 
 ---
 
-## 📊 사용자 경험
+### 📊 사용자 경험
 
 <div align="center">
   <table>
@@ -135,11 +135,11 @@
 
 ---
 
-## 🛠️ 향후 개발 계획
+### 🛠️ 향후 개발 계획
 
 <div>
   <div style="display: inline-block; width: 48%; vertical-align: top;">
-    <h3>단기 목표 (3개월)</h3>
+    <h4>단기 목표 (3개월)</h4>
     <ul>
       <li>🔔 응급상황 발생 시 보호자 자동 알림 시스템</li>
       <li>📊 상담사 전용 관리자 웹 대시보드</li>
@@ -147,7 +147,7 @@
     </ul>
   </div>
   <div style="display: inline-block; width: 48%; vertical-align: top;">
-    <h3>장기 목표 (6개월 이상)</h3>
+    <h4>장기 목표 (6개월 이상)</h4>
     <ul>
       <li>🧠 AI 기반 예측 및 개인화 시스템</li>
       <li>🌍 다국어 지원 및 글로벌 확장</li>
