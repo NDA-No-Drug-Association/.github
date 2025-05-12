@@ -91,29 +91,30 @@
 ---
 ## 🧩 기술 스택
 
-### 📱 Frontend (Mobile Client)
+### 📱 프론트엔드 (모바일 클라이언트)
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
 
-### ⚙️ Backend
+### ⚙️ 백엔드
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 
-### 📡 Infra & Deploy
+### 📡 인프라 및 배포
 ![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)
 
-### 📈 Monitoring & Loging
+### 📈 모니터링 및 로깅
 ![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus)
 ![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=grafana)
 
-### 🧰 Collaborate Tool
+### 🧰 협업 및 개발 도구
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
 ![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=slack)
 ![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visualstudiocode)
+
 
 ---
 
