@@ -123,9 +123,8 @@
 
 ### 🏗️ 서비스 아키텍처
 
-<div align="center">
-  <img src= https://github.com/user-attachments/assets/01b013d0-6a95-4457-871b-14713997508e, alt="RePlant 서비스 아키텍처" />
-</div>
+![Web App Reference Architecture](https://github.com/user-attachments/assets/54bb5bd3-d0bc-4eb0-bdfe-527258591621)
+
 
 #### 📋 아키텍처 구성요소
 
