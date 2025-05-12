@@ -89,35 +89,31 @@
 <br clear="all" />
 
 ---
+## 🧩 기술 스택
 
-### 🧩 기술 스택
+### 📱 프론트엔드 (모바일 클라이언트)
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
 
-<div align="center">
+### ⚙️ 백엔드
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 
-#### 📱 모바일 클라이언트
-![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
-![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)&nbsp;
+### 📡 인프라 및 배포
+![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
+![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)
 
-#### ⌚️ Apple Watch 앱
-![WatchKit](https://img.shields.io/badge/-WatchKit-05122A?style=flat&logo=apple)&nbsp;
-![SwiftUI](https://img.shields.io/badge/-SwiftUI-05122A?style=flat&logo=swift)&nbsp;
+### 📈 모니터링 및 로깅
+![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus)
+![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=grafana)
 
-#### 🌐 백엔드
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
-
-#### ☁️ 인프라 및 배포
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions)&nbsp;
-![Fastlane](https://img.shields.io/badge/-Fastlane-05122A?style=flat&logo=fastlane)&nbsp;
-
-#### 🔐 인증 및 보안
-![OAuth2](https://img.shields.io/badge/-OAuth2-05122A?style=flat&logo=auth0)&nbsp;
-![JWT](https://img.shields.io/badge/-JWT-05122A?style=flat&logo=json-web-tokens)&nbsp;
-![TLS](https://img.shields.io/badge/-TLS-05122A?style=flat&logo=security)&nbsp;
-
-</div>
+### 🧰 협업 및 개발 도구
+![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
+![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=slack)
+![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visualstudiocode)
 
 ---
 
