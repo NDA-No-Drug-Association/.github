@@ -91,7 +91,7 @@
 ---
 ## 🧩 기술 스택
 
-### 📱 Frontend (모바일 클라이언트)
+### 📱 Frontend (Mobile Client)
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
 
 ### ⚙️ Backend
